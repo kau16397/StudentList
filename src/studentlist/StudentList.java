@@ -23,8 +23,8 @@ public class StudentList {
   s2.setName("Arshnoor Kaur");
   Student s3 = new Student();
   s3.setName("Ritika");
-  Student s4 = new Student();
-  s4.setName("Ritika");
+   student s4 = new Student();
+   s4.setName("Ritika");
   
   studentList[0] = s1;
   studentList[1] = s2;
